@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/minhlk/minhlk)](https:minhlk.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/minhlk/minhlk)](https:minhlk)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/minh-duy-bui/)
 ![YouTube Video Views](https://img.shields.io/youtube/views/mlpbTJd-EQ8?style=social)
 
