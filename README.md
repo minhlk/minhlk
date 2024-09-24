@@ -21,10 +21,7 @@
 
 ## 📌 Pinned Repositories
 <p align="center">
-<a href="https://github.com/minhlk/android_nhentai_app">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=minhlk&repo=android_nhentai_app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
+  
 <a href="https://github.com/minhlk/Drive-Upload">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=minhlk&repo=Drive-Upload&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -43,6 +40,10 @@
 
 <a href="https://github.com/minhlk/ELK-Stack-Node">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=minhlk&repo=ELK-Stack-Node&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/minhlk/android_nhentai_app">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=minhlk&repo=android_nhentai_app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 </p>
